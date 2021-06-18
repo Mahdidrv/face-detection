@@ -3,9 +3,9 @@ Face Detection and Landmark usage opencv, haar cascade algorithm and LBFmodel
 
 
 ## exports
-![mahdi](images/me1.jpg){:height="50%" width="50%"}
-![mahdi](images/me2.jpg){:height="50%" width="50%"}
-![harry-potter](images/harry-potter.jpg){:height="50%" width="50%"}
+![mahdi](images/me1.jpg)
+![mahdi](images/me2.jpg)
+![harry-potter](images/harry-potter.jpg)
 
 ## Model
 [LBF model repository](https://raw.githubusercontent.com/kurnianggoro/GSOC2017/master/data/lbfmodel.yaml)
